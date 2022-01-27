@@ -1,0 +1,139 @@
+
+//neka funkcija koja brise odrede karaktere iz FILE-a
+void removeChar(char *s, char c)
+{
+  int j, n = strlen(s);
+  for (int i = j = 0; i < n; i++)
+    if (s[i] != c)
+      s[j++] = s[i];
+  s[j] = '\0';
+}
+
+//ovo je kunkcija koja poziva na neki file to jest za samo citanje nekih podataka iz fila
+FILE *fpointer;
+  fpointer = fopen("UlaznaDatoteka.txt", "r");
+  for (i = 0; i < 120; i++)
+  {
+    Student studentn = {.index = "abc", .ime = "abc", .prezime = "abc", .kviz = {0}};
+    nizStudenata[i] = studentn;
+  }
+  if (fpointer == NULL)
+  {
+    printf("Error");
+  }
+  
+  
+  
+  //Funcija sluzi za kada procita iz predonoh fila da nam ubaci podatke u nasu strukturu
+  i = 0;
+  int j = 0;
+  Student student1;
+  while (!feof(fpointer))
+  {
+    char Line[100];
+    fgets(Line, 100, fpointer);
+    if (i % 5 == 0)
+    {
+      strcpy(nizStudenata[j].index, Line);
+    }
+    else if (i % 5 == 1)
+    {
+      strcpy(nizStudenata[j].ime, Line);
+    }
+    else if (i % 5 == 2)
+    {
+      strcpy(nizStudenata[j].prezime, Line);
+    }
+    else if (i % 5 == 3)
+    {
+      removeChar(Line, ' ');
+
+      char *token = strtok(Line, "|");
+
+      int k = 0;
+      while (token != NULL)
+      {
+
+        nizStudenata[j].kviz[k] = atoi(token);
+        token = strtok(NULL, "|");
+        k++;
+      }
+    }
+    else if (i % 5 == 4)
+    {
+      j++;
+    }
+    i++;
+  }
+
+  fclose(fpointer);
+}
+
+//sa ovom funcijom samo smo podjelili ispis podataka u jednu posebnu funciju koja ce nam trebati kasnije u mejnu 
+void print_studenti(Student *nizStudenata)
+{
+  int j = 0;
+  int i = 0;
+  for (i = 0; i < 120; i++)
+  {
+    printf("student %d \n", i);
+    printf("%s %s %s \n", nizStudenata[i].index, nizStudenata[i].ime, nizStudenata[i].prezime);
+
+    for (j = 0; j < 10; j++)
+      printf(" %d", nizStudenata[i].kviz[j]);
+    printf("\n");
+  }
+}
+
+
+//Primjer jednog bubble sorta
+void sortirajPoIndeksu(Student *nizStudenata)
+{
+  for (int step = 0; step < 120 - 1; step++)
+  {
+
+    for (int i = 0; i < 120 - step - 1; i++)
+    {
+
+      if (strcmp(nizStudenata[i].index, nizStudenata[i + 1].index) > 0)
+      {
+
+        Student temp = nizStudenata[i];
+        nizStudenata[i] = nizStudenata[i + 1];
+        nizStudenata[i + 1] = temp;
+      }
+    }
+  }
+}
+
+//primjer sortiranja  selekcijom
+void sortiranjePoImenu(Student *nizstudenata)
+{
+
+  {
+    for (int step = 0; step < 120 - 1; step++)
+    {
+      int min_idx = step;
+      for (int i = step + 1; i < 120; i++)
+      {
+
+        if (strcmp(nizstudenata[i].ime, nizstudenata[min_idx].ime) < 0)
+          min_idx = i;
+      }
+
+      Student temp = nizstudenata[min_idx];
+      nizstudenata[min_idx] = nizstudenata[step];
+      nizstudenata[step] = temp;
+    }
+  }
+}
+
+
+//Kasnije samo pozvati sve funcije u mejnu, i sa scanfovm ponuditi nekom korisniku izbor.  
+
+
+
+
+
+
+
