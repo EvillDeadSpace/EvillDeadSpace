@@ -8,7 +8,7 @@ I graduated high school as a Web-designer. I am currently studying at the Facult
 
 * 🌍  I'm based in Tuzla, Bosnia and Herzegovina
 * ✉️  You can contact me at [amartubic1@gmail.com](mailto:amartubic1@gmail.com)
-* 🚀  I'm currently working on [My test web-site]([https://coinflow.webflow.io/](https://site-for-selling-sneakers.netlify.app/))
+* 🚀  I'm currently working on [My test web-site]([https://site-for-selling-sneakers.netlify.app/])
 * 🧠  I'm learning JavaScript, React, C++ amd Java
 * 🤝  I'm open to collaborating on I am open to various projects regarding web technologies
 * ⚡  Briefly about me, I'm 21 years old, I go to the GYM in my spare time
