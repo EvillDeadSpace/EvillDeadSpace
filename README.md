@@ -1,17 +1,17 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Amar Tubic
 ==================================================================================================================================
 
-Web Developer and Photo/Video Editor
+Developer and Photo/Video Editor
 ------------------------------------
 
 I graduated high school as a Web-designer. I am currently studying at the Faculty of Informatics and Computer Science. I have experience in various Web technologies. I am also a photo and video editor.
 
 * 🌍  I'm based in Tuzla, Bosnia and Herzegovina
 * ✉️  You can contact me at [amartubic1@gmail.com](mailto:amartubic1@gmail.com)
-* 🚀  I'm currently working on [https://site-for-selling-sneakers.netlify.app/](https://site-tuba-shop.netlify.app/)
+* 🚀  I'm currently working on [https://github.com/EvillDeadSpace/FitTrainer-24-Mobile]
 * 🧠  I'm learning JavaScript, React, C++ and Java
 * 🤝  I'm open to collaborating on I am open to various projects regarding web technologies
-* ⚡  Briefly about me, I'm 21 years old, I go to the GYM in my spare time
+* ⚡  Briefly about me, I'm 23 years old, I go to the GYM in my spare time
 
 <a href="https://www.twitter.com/EvillDeadSpace" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/EvillDeadSpace?logo=twitter&style=for-the-badge&color=000000&labelColor=581c87"
