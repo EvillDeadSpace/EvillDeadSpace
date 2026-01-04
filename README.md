@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Amar Tubic
 ==================================================================================================================================
 
-Developer and Photo/Video Editor
+Developer 
 ------------------------------------
 
 I graduated high school as a Web-designer. I am currently studying at the Faculty of Informatics and Computer Science. I have experience in various Web technologies. I am also a photo and video editor.
