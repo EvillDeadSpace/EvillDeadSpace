@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=581c87&height=200&section=header&text=Amar%20Tubić&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20CS%20Student&descAlignY=58&descColor=d8b4fe" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=581c87&height=200&section=header&text=Amar%20Tubić&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20CS%20Graduate&descAlignY=58&descColor=d8b4fe" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Amar+%F0%9F%91%8B;Full+Stack+Web+Developer;Photo+%26+Video+Editor;Always+learning+something+new..." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Amar+%F0%9F%91%8B;Full+Stack+Web+Developer;CS+Graduate+%F0%9F%8E%93;Photo+%26+Video+Editor;Always+learning+something+new..." alt="Typing SVG" /></a>
 
 <br/>
 
@@ -16,9 +16,11 @@
 
 ## About Me
 
-I'm a **Full Stack Developer** from **Tuzla, Bosnia and Herzegovina**. I graduated high school as a Web Designer and have been building web applications and expanding my skills ever since. Alongside development, I work as a **photo and video editor**.
+I'm a **Full Stack Developer** from **Tuzla, Bosnia and Herzegovina**. I graduated high school as a Web Designer, and recently **earned my Computer Science degree** — finishing it with my thesis project [IPI Smart Academic System](https://github.com/EvillDeadSpace/IPI-Smart-Academic-System). Alongside development, I work as a **photo and video editor**.
 
 - 🌍 Based in **Tuzla, Bosnia and Herzegovina**
+- 🎓 **CS Graduate** — Faculty of Informatics and Computer Science
+- 📚 Thesis: [IPI Smart Academic System](https://github.com/EvillDeadSpace/IPI-Smart-Academic-System)
 - 🚀 Currently building [FitTrainer-24-Mobile](https://github.com/EvillDeadSpace/FitTrainer-24-Mobile)
 - 🧠 Currently leveling up: **JavaScript · React · C++ · Java**
 - 🤝 Open to collaborating on **web technology projects**
@@ -60,7 +62,7 @@ I'm a **Full Stack Developer** from **Tuzla, Bosnia and Herzegovina**. I graduat
 
 ## Connect With Me
 
-<p align="left"><a href="https://www.linkedin.com/in/amar-tubic-7a7919209/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="36" height="36" title="LinkedIn" /></a>&nbsp;<a href="https://www.github.com/EvillDeadSpace" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="36" height="36" title="GitHub" /></a>&nbsp;<a href="http://www.instagram.com/tubic.amar/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="36" height="36" title="Instagram" /></a>&nbsp;<a href="https://www.twitter.com/EvillDeadSpace" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="36" height="36" title="Twitter" /></a>&nbsp;<a href="https://www.facebook.com/tubic.amar/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="36" height="36" title="Facebook" /></a>&nbsp;<a href="https://www.youtube.com/channel/UCe4td5_2Txpd6uy39q3KMQw" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="36" height="36" title="YouTube" /></a>&nbsp;<a href="https://www.twitch.tv/evilldeadspace" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="36" height="36" title="Twitch" /></a></p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amar-tubic-7a7919209/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/EvillDeadSpace) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](http://www.instagram.com/tubic.amar/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/EvillDeadSpace) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/tubic.amar/) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCe4td5_2Txpd6uy39q3KMQw) [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/evilldeadspace)
 
 ---
 
